@@ -1,0 +1,110 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build directories
+build/
+dist/
+
+# If using React with Next.js, include the following:
+.next/
+out/
+
+# If using Express, include the following:
+coverage/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Local React environment settings
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Babel cache
+.babelrc
+.babelrc.js
+.babelrc.json
+.babel.config.js
+.babel.config.json
+
+# Parcel cache (for some bundlers)
+.cache/
+.parcel-cache/
+
+# Webpack cache (if applicable)
+.webpack/
+
+# TernJS cache
+.tern-port
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Optional Yarn
+.yarn/*
+!.yarn/cache
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+
+# Optional lock files (optional, but generally included for consistency)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Docker
+docker-compose.yml
+.dockerignore
+
+# Local development files
+*.local
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

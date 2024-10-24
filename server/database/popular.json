@@ -1,0 +1,44 @@
+{
+    "entries":[
+        {
+        "word": "king",
+        "count": 1
+        },
+        {
+        "word": "apple",
+        "count": 1
+        }, 
+        {
+        "word": "safe",
+        "count": 1
+        }, 
+        {
+        "word": "look",
+        "count": 1
+        }, 
+        {
+        "word": "data",
+        "count": 1
+        }, 
+        {
+        "word": "file",
+        "count": 1
+        }, 
+        {
+        "word": "make",
+        "count": 1
+        }, 
+        {
+        "word": "linux",
+        "count": 1
+        }, 
+        {
+        "word": "project",
+        "count": 1
+        }, 
+        {
+        "word": "path",
+        "count": 1
+        }
+    ]
+}
