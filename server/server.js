@@ -4,7 +4,7 @@ import searchRouter from './routes/searchRouter.js';
 import swaggerConfig from './swaggerConfig.js';
 
 const app = express();
-const port = process.env.SERVER_PORT || 3000;
+const port = process.env.SERVER_PORT || 4000;
 
 app.use(cors());
 app.use(express.json());
